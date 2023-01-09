@@ -65,10 +65,3 @@ SELECT * FROM [Customers]
 where City REGEXP "[a-h]i"
 
 -- match with ai or bi or ci or di or ei or fi or gi or hi
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
